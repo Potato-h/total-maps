@@ -29,7 +29,7 @@
         };
 
         devShells.default = pkgs.mkShell {
-          name = "hw0 development shell";
+          name = "total-maps development shell";
 
           packages = [
             pkgs.bashInteractive
