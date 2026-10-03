@@ -17,7 +17,7 @@ cabal.sandbox.config
 *.prof
 *.aux
 *.hp
-
+dist-newstyle
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
@@ -52,3 +52,6 @@ tramp
 
 # cask packages
 .cask/
+
+# direnv 
+.direnv
